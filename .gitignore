@@ -148,6 +148,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+models/llama-2-7b-chat.ggmlv3.q4_0.bin
+
 # pytype static type analyzer
 .pytype/
 
